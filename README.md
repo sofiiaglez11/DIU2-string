@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIU2.string  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 20/03/2025
 
 Proyecto: 
 
@@ -23,7 +23,7 @@ Miembros:
  * :bust_in_silhouette:  Sofía González Uceda    https://github.com/sofiiaglez11  :octocat:     
  * :bust_in_silhouette:  María Ramos Martínez    https://github.com/mariarmm :octocat:
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+
 
 ----- 
 
@@ -37,15 +37,26 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
-
+Nuestro análisis va a ser sobre La Tertulia, un bar que combina actividades socioculturales
+con gastronomía, ofreciendo la oportunidad a cualquier persona interesada en participar en
+recitales, charlas, conciertos, etc.
+Para recopilar información, indagaremos en sus redes sociales (Facebook e Instagram),
+donde se publica la planificación semanal de las actividades. Además, tendremos en cuenta
+nuestra experiencia y la de algunos conocidos que frecuentan el sitio. Preguntaremos
+acerca de su visión general y cómo se informan acerca del local y sus actividades, además
+de, en cada caso, preguntas específicas según el tipo de usuario (si realizan alguna
+actividad, cuál, si se apuntan a ellas y con qué método…). También aprovecharemos para
+preguntarles qué necesitarían en una página web para que su experiencia como usuarios
+mejore. Otro aspecto que tendremos en cuenta serán las reseñas de los usuarios en
+distintos sitios web.
+Aunque la manera que tiene La Tertulia de informar a los usuarios es mediante sus redes
+sociales, también tiene una página web pero está desactualizada. Haremos un análisis de
+esta, viendo qué ofrece y qué aspectos pueden mejorar.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
