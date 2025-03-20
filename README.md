@@ -108,7 +108,7 @@ correo con antelación.<br><br>
 Los clientes del Granada Cooking Experience remarcan que es una experiencia
 diferente en la que puedes conocer gente y aprender de cocina.<br><br>
 
-
+● Justificación de la elegida<br>
 Hemos elegido La Tertulia porque es un lugar que conocemos y nos gusta. Además,
 estamos acostumbradas al Instagram del local ya que solemos asistir a espectáculos de
 música en directo y para ello consultamos la planificación semanal. Por tanto, sabemos qué
@@ -124,11 +124,27 @@ accesible. Como la página actual de La Tertulia está muy lejos de eso, queremo
 podría mejorarse.<br><br>
 
 
+
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+![Persona #1](https://github.com/user-attachments/assets/b6a4bee2-7efd-4f84-91ef-3374436bbe5f)
+Hemos diseñado el perfil de Bianca porque representa a una generación de personas
+jóvenes que quieren reivindicarse con su arte. Además, su pasión por la poesía hace que
+Bianca cubra también el papel de cliente que va a La Tertulia no solo a consumir, sino
+también a participar activamente en las actividades que ofrecen.<br>
+También describe a un perfil de cliente típico de La Tertulia: los turistas; los cuales llegan a
+la ciudad y quieren visitar sitios que le permita adentrarse en la cultura de Granada.<br><br>
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+<img width="1024" alt="Persona #1 (1)" src="https://github.com/user-attachments/assets/24bd8a31-3c40-44b4-b298-ada5e8e1494a" />
+Hemos elegido a Daniel como nuestro segundo perfil por su pasión por el deporte y su
+necesidad de aprender disciplinas nuevas constantemente. Consideramos que puede ser
+una persona interesada en ir a La Tertulia para asistir a las clases de tango.<br>
+También creemos que es un perfil bueno para representar el contraste entre él y Bianca.
+Daniel es una persona adulta con un puesto de trabajo estable que quiere asistir a La
+Tertulia para disfrutar de su tiempo libre; mientras que Bianca es un perfil más juvenil que
+está interesada en asistir a La Tertulia no solo para disfrutar, si no también para
+promocionar su trabajo.
 
 
 ### 1.d User Journey Map
