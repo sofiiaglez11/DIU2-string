@@ -174,7 +174,7 @@ demostramos la importancia de, entre otras cosas, mantener una página web actua
 ----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  [(xls/pdf) ](https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/Usability-review.pdf)
+>>> - Enlace al documento: https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/Usability-review.pdf
 >>> - URL y Valoración numérica obtenida: 
 >>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
