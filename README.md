@@ -128,7 +128,8 @@ podría mejorarse.<br><br>
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
-https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/PERSONA_USER_JOURNEY_BIANCA.pdf 
+<img width="1024" alt="Persona #1" src="https://github.com/user-attachments/assets/3715e51f-2d95-4bb9-9535-c2cf9fe18a8d" />
+https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/PERSONA_USER_JOURNEY_BIANCA.pdf <br>
 Hemos diseñado el perfil de Bianca porque representa a una generación de personas
 jóvenes que quieren reivindicarse con su arte. Además, su pasión por la poesía hace que
 Bianca cubra también el papel de cliente que va a La Tertulia no solo a consumir, sino
@@ -137,6 +138,7 @@ También describe a un perfil de cliente típico de La Tertulia: los turistas; l
 la ciudad y quieren visitar sitios que le permita adentrarse en la cultura de Granada.<br><br>
 
 <img width="1024" alt="Persona #1 (1)" src="https://github.com/user-attachments/assets/24bd8a31-3c40-44b4-b298-ada5e8e1494a" />
+https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/PERSONA_USER_JOURNEY_DANIEL.pdf <br>
 Hemos elegido a Daniel como nuestro segundo perfil por su pasión por el deporte y su
 necesidad de aprender disciplinas nuevas constantemente. Consideramos que puede ser
 una persona interesada en ir a La Tertulia para asistir a las clases de tango.<br>
