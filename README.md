@@ -152,21 +152,21 @@ promocionar su trabajo.
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
-Bianca.<br><br>
+Bianca.<br>
+https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/PERSONA_USER_JOURNEY_BIANCA.pdf <br>
 Hemos hecho el Journey Map de Bianca con la idea de representar una experiencia
 satisfactoria de un cliente. Bianca es una persona que muestra interés en asistir a La
 Tertulia a una actividad en concreto y, al final, a pesar de no encontrar información y
 frustrarse en el proceso, termina yendo porque confía en el criterio del amigo se lo
 recomendó.<br><br>
+
 Daniel<br>
+https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/PERSONA_USER_JOURNEY_DANIEL.pdf <br>
 Con el Journey Map de Daniel hemos querido ejemplificar el caso de una persona que, a
 pesar de tener bastante interés por asistir a una de las actividades que ofrecen, decide no ir
 por la escasa información que encuentra en las redes sociales y en la página web. Así
 demostramos la importancia de, entre otras cosas, mantener una página web actualizada y
 útil para evitar perder potenciales clientes por el mal funcionamiento de esta.<br><br>
-
-
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
 ### 1.e Usability Review
