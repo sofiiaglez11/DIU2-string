@@ -44,7 +44,7 @@ Miembros:
 
 Nuestro análisis va a ser sobre La Tertulia, un bar que combina actividades socioculturales
 con gastronomía, ofreciendo la oportunidad a cualquier persona interesada en participar en
-recitales, charlas, conciertos, etc.
+recitales, charlas, conciertos, etc.<br><br>
 Para recopilar información, indagaremos en sus redes sociales (Facebook e Instagram),
 donde se publica la planificación semanal de las actividades. Además, tendremos en cuenta
 nuestra experiencia y la de algunos conocidos que frecuentan el sitio. Preguntaremos
@@ -53,7 +53,7 @@ de, en cada caso, preguntas específicas según el tipo de usuario (si realizan 
 actividad, cuál, si se apuntan a ellas y con qué método…). También aprovecharemos para
 preguntarles qué necesitarían en una página web para que su experiencia como usuarios
 mejore. Otro aspecto que tendremos en cuenta serán las reseñas de los usuarios en
-distintos sitios web.
+distintos sitios web.<br><br>
 Aunque la manera que tiene La Tertulia de informar a los usuarios es mediante sus redes
 sociales, también tiene una página web pero está desactualizada. Haremos un análisis de
 esta, viendo qué ofrece y qué aspectos pueden mejorar.
@@ -61,8 +61,67 @@ esta, viendo qué ofrece y qué aspectos pueden mejorar.
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+●​ Cata de vinos - La taberna de Kafka https://www.instagram.com/latabernadekafka/<br><br>
+La taberna de Kafka se encuentra en el centro de Granada (Calle Huete, 2). Es una
+taberna especializada en vino donde ofrecen tapas caseras y platos, con la
+posibilidad de opciones vegetarianas, veganas y sin gluten. Está enfocada a su
+variedad de vinos, organizando numerosas catas. Para acudir a ellas, al ofrecer un
+número limitado de plazas, normalmente se requiere reserva, que se puede realizar
+a través de las redes sociales del local (que son la fuente de información para los
+usuarios) o a través de Whatsapp.<br>
+Para cada cata se detallan los vinos que se ofrecerán, además de que suelen seguir
+una temática o estar relacionadas con alguna festividad. El precio suele estar por
+debajo de los 30€.<br><br>
+La taberna de Kafka está más enfocada al vino, mientras que la tertulia ofrece
+actividades más variadas. Claramente, cada uno está enfocado a un público distinto.<br><br>
+Las páginas de ambos son similares, ya que en los dos casos los locales cuentan
+con Facebook e Instagram. Sin embargo, en la Tertulia se publican fotos con la
+planificación semanal de actividades, mientras que en la taberna se sube una foto y
+en la descripción se detalla la actividad, las fechas disponibles, el precio y los
+métodos de contacto para reservar.<br>
+En las reseñas de la taberna, los clientes destacan la gran variedad de vinos, y el
+ambiente acogedor del lugar.<br><br>
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+●​ Talleres de comida<br><br>
+Granada Cooking Experience se encuentra en pleno centro de Granada (Calle de la
+Monterería, 16). Es un local dirigido a todos los amantes de la gastronomía que se
+quieran ver inmersos en la elaboración de los platos que van a degustar. Organizan
+talleres de cocina de diferentes culturas, además de catas de vino. También ofrecen
+la posibilidad de reservar un taller en específico para grupos de 6 personas.<br><br>
+Para reservar alguno de sus talleres se debe hacer a través de su página web, pero
+también tienen redes sociales como Instagram o Facebook. El precio de los talleres
+es de 50€, esto incluye los ingredientes y los utensilios de cocina que se necesite,
+un profesor que te guía en la elaboración y 3 bebidas.<br><br>
+Comparando ambos locales, Granada Cooking Experience aporta una experiencia
+más culinaria ya que el cliente participa en la elaboración de los platos; mientras que
+en La Tertulia el cliente no tiene esa posibilidad. Sin embargo, consideramos que
+son conceptos muy distintos, en Granada Cooking Experience el objetivo es la
+cocina y la degustación; mientras que la finalidad de La Tertulia no es la comida, si
+no disfrutar de los espectáculos que ofrecen, charlar con amigos y realizar otras
+actividades como, por ejemplo, aprender tango.<br><br>
+Un aspecto destacable de Granada Cooking Experience es la comodidad para
+reservar los talleres a través de su página web. En La Tertulia, si quieres asistir
+como público, en algunos casos no debes hacer reserva. Sin embargo, hay otras
+actividades con aforo limitado para las que tienes que hacer tu reserva mediante un
+correo. Además, si quieres participar en algún espectáculo debes avisar también por
+correo con antelación.<br><br>
+Los clientes del Granada Cooking Experience remarcan que es una experiencia
+diferente en la que puedes conocer gente y aprender de cocina.<br><br>
+
+
+Hemos elegido La Tertulia porque es un lugar que conocemos y nos gusta. Además,
+estamos acostumbradas al Instagram del local ya que solemos asistir a espectáculos de
+música en directo y para ello consultamos la planificación semanal. Por tanto, sabemos qué
+información suele ser la más interesante y somos conscientes de los aspectos que se
+podrían mejorar.<br>
+Comparándolo con los demás competidores, nos parece que es la opción más atractiva
+teniendo en cuenta nuestros gustos y aficiones. Además, estamos familiarizadas con el
+lugar y tenemos una idea de las personas que lo frecuentan. Conocer esto nos ayudará a
+intuir qué necesidades pueden tener otras personas respecto a la Tertulia.<br><br>
+Además, comparando su página web con la de Granada Cooking, por ejemplo, nos damos
+cuenta de la importancia que tiene que un local tenga una plataforma para el usuario fácil y
+accesible. Como la página actual de La Tertulia está muy lejos de eso, queremos ver cómo
+podría mejorarse.<br><br>
 
 
 ### 1.c Personas
