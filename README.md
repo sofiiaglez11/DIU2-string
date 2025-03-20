@@ -128,7 +128,7 @@ podría mejorarse.<br><br>
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
-![Persona #1](https://github.com/user-attachments/assets/b6a4bee2-7efd-4f84-91ef-3374436bbe5f)
+https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/PERSONA_USER_JOURNEY_BIANCA.pdf 
 Hemos diseñado el perfil de Bianca porque representa a una generación de personas
 jóvenes que quieren reivindicarse con su arte. Además, su pasión por la poesía hace que
 Bianca cubra también el papel de cliente que va a La Tertulia no solo a consumir, sino
@@ -150,6 +150,19 @@ promocionar su trabajo.
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+Bianca.<br><br>
+Hemos hecho el Journey Map de Bianca con la idea de representar una experiencia
+satisfactoria de un cliente. Bianca es una persona que muestra interés en asistir a La
+Tertulia a una actividad en concreto y, al final, a pesar de no encontrar información y
+frustrarse en el proceso, termina yendo porque confía en el criterio del amigo se lo
+recomendó.<br><br>
+Daniel<br>
+Con el Journey Map de Daniel hemos querido ejemplificar el caso de una persona que, a
+pesar de tener bastante interés por asistir a una de las actividades que ofrecen, decide no ir
+por la escasa información que encuentra en las redes sociales y en la página web. Así
+demostramos la importancia de, entre otras cosas, mantener una página web actualizada y
+útil para evitar perder potenciales clientes por el mal funcionamiento de esta.<br><br>
+
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
@@ -159,7 +172,7 @@ promocionar su trabajo.
 ----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
+>>> - Enlace al documento:  [(xls/pdf) ](https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/Usability-review.pdf)
 >>> - URL y Valoración numérica obtenida: 
 >>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
