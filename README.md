@@ -217,7 +217,7 @@ demostramos la importancia de, entre otras cosas, mantener una página web actua
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
+![Task Flow] (P2/P2-TaskFlow.png)
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
