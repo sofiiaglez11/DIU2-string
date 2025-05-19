@@ -353,13 +353,13 @@ El carrusel lo utilizamos en las “galerías” de imágenes. En concreto se us
 -- Mostrar las actividades de la semana en la página principal, indicando en el pie de foto el día de la actividad.
 -- Mostrar los artistas famosos que han asistido a la Tertulia en el apartado de “Conócenos”, poniendo la foto del artista, su nombre y una breve explicación sobre el artista.
 
--** Icon buttons** (botones con iconos)
-https://m3.material.io/components/icon-buttons/guidelines
+- **Icon buttons** (botones con iconos)
+  https://m3.material.io/components/icon-buttons/guidelines
 
-Usamos este tipo de botones en la página que lista la información de una actividad en concreto. Los tipos de botones que utilizamos son: 
--- Una flecha, para volver al listado de las actividades.
--- Un icono de corazón, para marcar la actividad como favorita.
--- El icono que se usa comúnmente para compartir para compartir la actividad.
+  Usamos este tipo de botones en la página que lista la información de una actividad en concreto. Los tipos de botones que utilizamos son: 
+  - Una flecha, para volver al listado de las actividades.
+  - Un icono de corazón, para marcar la actividad como favorita.
+   El icono que se usa comúnmente para compartir para compartir la actividad.
 
 Situamos estos botones en la parte superior de la página, contenidos en una **appbar** https://m3.material.io/components/app-bars/overview.
 
