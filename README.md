@@ -349,7 +349,7 @@ https://m3.material.io/components/text-fields/overview
 - **Carrusel** de fotos 
 https://m3.material.io/components/carousel/overview 
 
-El carrusel lo utilizamos en las “galerías” de imágenes. En concreto se usan para:
+  El carrusel lo utilizamos en las “galerías” de imágenes. En concreto se usan para:
 -- Mostrar las actividades de la semana en la página principal, indicando en el pie de foto el día de la actividad.
 -- Mostrar los artistas famosos que han asistido a la Tertulia en el apartado de “Conócenos”, poniendo la foto del artista, su nombre y una breve explicación sobre el artista.
 
