@@ -263,13 +263,14 @@ Conócenos: Se ofrece información sobre la historia del local y artistas import
 >>>
 >>
 
-Icono | Término | Significado     
-| ------------- | -------
-| 🏠 | Principal | Planificación semanal e información sobre los artistas de esta semana.
-| 🎤 | Actividades | Información detallada sobre los eventos de esta semana y de las siguientes.
-| ❓ | Conócenos | Información sobre la Tertulia y sus artistas.
-| 💭 | Opiniones | Opiniones de otros usuarios y un formulario para valoraciones.
-| 📞 | Contacto | Información de contacto del local y un formulario para contactar directamente.
+| Icono | Término | Significado |
+|-------|---------|-------------|
+| 🏠 | Principal | Planificación semanal e información sobre los artistas de esta semana. |
+| 🎤 | Actividades | Información detallada sobre los eventos de esta semana y de las siguientes. |
+| ❓ | Conócenos | Información sobre la Tertulia y sus artistas. |
+| 💭 | Opiniones | Opiniones de otros usuarios y un formulario para valoraciones. |
+| 📞 | Contacto | Información de contacto del local y un formulario para contactar. |
+
 
 
 ### 2.d Wireframes
