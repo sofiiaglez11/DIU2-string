@@ -179,7 +179,6 @@ demostramos la importancia de, entre otras cosas, mantener una página web actua
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 - [Enlace al documento](https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/Usability-review.pdf)
  - URL y Valoración numérica obtenida: 
 - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
@@ -284,8 +283,8 @@ Conócenos: Se ofrece información sobre la historia del local y artistas import
 Hemos utilizado Figma para realizar el diseño del layout para Web. <br>
 
 ![Wireframe](P2/Wireframe2.png)
-<br>
-Aquí se ve más detallado el contenido <br>
+<br> <br>
+Aquí se ve más detallado el contenido: <br> <br>
 ![Wireframe detallado](P2/Wireframe.jpeg)
 <br>
 
@@ -315,15 +314,55 @@ Logotipo:
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+En el landing page tendríamos como título: “La Tertulia, más que un bar, una experiencia cultural”.
+El subtítulo sería: “El escenario ideal para conectar con el arte, la música y las emociones.”
+
+El CTA sería un botón visible y del tamaño suficiente con el texto “Descubre nuestras actividades”. Este botón lleva al usuario a la página principal, donde aparece la planificación semanal de las actividades.
+
+Aquí se incluiría una imagen del local en acción: gente conversando, escenario iluminado, música en vivo.
+
+Nuestra propuesta es clara y concisa. Capta la atención del usuario y lo redirige a la página web. Da a conocer que se realizan actividades culturales en el local, que es el elemento destacable del negocio.
+Como refuerzos emocionales proponemos:
+- Construyamos recuerdos juntos.
+- Ven a formar parte de nuestra familia.
+
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+Para el diseño móvil de nuestra página web vamos a utilizar los siguientes elementos:
+Una barra de navegación en la que tenemos como vistas de interfaz de usuario los distintos menús de la aplicación.
+https://m3.material.io/components/navigation-bar/overview
+ 
+Una barra de búsqueda y debajo un segmented button (botón segmentado) para filtrar las actividades.
+https://m3.material.io/components/search/overview
+https://m3.material.io/components/segmented-buttons/overview
+
+Un calendario
+https://m3.material.io/components/date-pickers/overview
+
+Campos de texto para las opiniones y el contacto
+https://m3.material.io/components/text-fields/overview
+
+Carrusel de fotos 
+https://m3.material.io/components/carousel/overview 
+
+El carrusel lo utilizamos en las “galerías” de imágenes. En concreto se usan para:
+Mostrar las actividades de la semana en la página principal, indicando en el pie de foto el día de la actividad.
+Mostrar los artistas famosos que han asistido a la Tertulia en el apartado de “Conócenos”, poniendo la foto del artista, su nombre y una breve explicación sobre el artista.
+
+Icon buttons (botones con iconos)
+https://m3.material.io/components/icon-buttons/guidelines
+
+Usamos este tipo de botones en la página que lista la información de una actividad en concreto. Los tipos de botones que utilizamos son: 
+Una flecha, para volver al listado de las actividades.
+Un icono de corazón, para marcar la actividad como favorita.
+El icono que se usa comúnmente para compartir para compartir la actividad.
+
+Situamos estos botones en la parte superior de la página, contenidos en una appbar https://m3.material.io/components/app-bars/overview.
+
 
 
 
