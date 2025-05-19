@@ -211,14 +211,6 @@ Al no tener página web funcional los resultados no son buenos. La página está
 >>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
 
 
-### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
-----
-
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
->>>
-
 Nuestra propuesta consiste en el rediseño total de la página web. Para ello queremos hacer un diseño más atractivo y mejor estructurado, de forma que la información esté disponible a partir de un menú y sea más accesible para el usuario. Queremos diferenciar las siguientes secciones:
 
 - Principal: Es la página principal del sitio web, la primera que se muestra al acceder a la página. En ella se mostrarán de forma visual (fotografías, videos, etc.) las actividades de la semana actual. Además, incluirá información sobre las personas que vayan a actuar o participar en alguna actividad y quieran promocionarse, y un calendario interactivo.
@@ -241,6 +233,16 @@ Conócenos: Se ofrece información sobre la historia del local y artistas import
 - Un sistema de búsqueda que permita al usuario encontrar de forma más fácil algún contenido en concreto utilizando palabras clave.
 - Un botón para confirmar la asistencia y otro para participar en las actividades.
 - Un botón para marcar actividades como favoritas. El usuario recibirá notificaciones sobre sus actividades favoritas.
+
+
+### 2.b ScopeCanvas
+![Método UX](img/ScopeCanvas.png)
+----
+
+>>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
+>>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+>>>
+
 
 
 
@@ -271,7 +273,7 @@ Conócenos: Se ofrece información sobre la historia del local y artistas import
 | 💭 | Opiniones | Opiniones de otros usuarios y un formulario para valoraciones. |
 | 📞 | Contacto | Información de contacto del local y un formulario para contactar. |
 
-
+![Sitemap](P2/5-sitemap.png)
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
@@ -285,9 +287,6 @@ Conócenos: Se ofrece información sobre la historia del local y artistas import
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
@@ -295,6 +294,14 @@ Conócenos: Se ofrece información sobre la historia del local y artistas import
 >>> Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+
+Moodboard: 
+![MOODBOARD](P3/MOODBOARD.png)
+
+
+Logotipo: 
+![LOGO](P3/logo.png)
+
 
 
 
