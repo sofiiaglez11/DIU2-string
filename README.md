@@ -197,6 +197,16 @@ Al no tener página web funcional los resultados no son buenos. La página está
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
+|                        | **La Tertulia** | **Granada Cooking** | **La taberna de Kafka** |
+|------------------------|-----------------|----------------------|--------------------------|
+| **Página web**         | Desactualizada y sin funcionalidades | Actualizada y bien estructurada | No tiene |
+| **Redes sociales**     | Instagram, Facebook y Twitter | Instagram, Facebook y Youtube | Instagram y Facebook |
+| **Planificación de actividades** | Semanal | Mensual | Mensual |
+| **Método de reserva de actividades** | Mandando un correo con la información | Comprando los talleres | Mandando un correo o a través de las redes sociales |
+| **Menú**               | Limitado | Consumes lo que cocinas en el taller | Algo limitado |
+| **Principal interés**  | Actividades culturales variadas | Talleres de cocina | Cata de vinos |
+| **Precio**             | 0€ - 10€ | 35€ - 50€ | 30€ |
+
 
  Interesante | Críticas     
 | ------------- | -------
