@@ -239,11 +239,7 @@ Conócenos: Se ofrece información sobre la historia del local y artistas import
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
->>>
-
-
+[Scope canvas](P2/scope-canvas.png)
 
 
 
