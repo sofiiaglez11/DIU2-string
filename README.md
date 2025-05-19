@@ -235,8 +235,9 @@ Término | Significado
 -----
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
-![Wireframe] (P2/Wireframe2.png)
-![Wireframe detallado] (P2/Wireframe.jpeg)
+
+![Wireframe](P2/Wireframe2.png)
+![Wireframe detallado](P2/Wireframe.jpeg)
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -274,7 +275,7 @@ Término | Significado
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-![Mockup] (https://www.figma.com/design/fWuTnBIUxemjLweb523xS5/Practica3?node-id=0-1&t=UojXUwZWzqQ3LNQB-1)
+![Mockup](https://www.figma.com/design/fWuTnBIUxemjLweb523xS5/Practica3?node-id=0-1&t=UojXUwZWzqQ3LNQB-1)
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
 
