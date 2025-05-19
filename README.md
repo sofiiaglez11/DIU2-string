@@ -310,11 +310,12 @@ Aquí se ve más detallado el contenido: <br> <br>
 
 Para realizar el Moodboard hemos usado la herramienta [Excalidraw](excalidraw.com)
 
-Moodboard: 
+Moodboard: <r>
 ![MOODBOARD](P3/MOODBOARD.png)
 
 
-Logotipo: 
+Logotipo: <br>
+
 ![LOGO](P3/logo.png)
 
 
