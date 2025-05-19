@@ -157,6 +157,8 @@ promocionar su trabajo.
 ![Método UX](img/JourneyMap.png) 
 ----
 Bianca.<br>
+
+[USER JOURNEY MAP BIANCA](P1/PERSONA_USER_JOURNEY_BIANCA.pdf)
 https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/PERSONA_USER_JOURNEY_BIANCA.pdf <br>
 Hemos hecho el Journey Map de Bianca con la idea de representar una experiencia
 satisfactoria de un cliente. Bianca es una persona que muestra interés en asistir a La
@@ -187,7 +189,7 @@ demostramos la importancia de, entre otras cosas, mantener una página web actua
 ## Paso 2. UX Design  
 
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
