@@ -195,7 +195,8 @@ demostramos la importancia de, entre otras cosas, mantener una página web actua
 | ------------- | -------
   Preguntas | Nuevas ideas
 
-  Reframing [P2/P2-2Reframing.png]
+  ![Reframing](P2/P2-2Reframing.png)
+
   
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
