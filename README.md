@@ -158,8 +158,7 @@ promocionar su trabajo.
 ----
 Bianca.<br>
 
-[USER JOURNEY MAP BIANCA](P1/PERSONA_USER_JOURNEY_BIANCA.pdf)
-https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/PERSONA_USER_JOURNEY_BIANCA.pdf <br>
+[USER JOURNEY MAP BIANCA](P1/PERSONA_USER_JOURNEY_BIANCA.pdf) <br>
 Hemos hecho el Journey Map de Bianca con la idea de representar una experiencia
 satisfactoria de un cliente. Bianca es una persona que muestra interés en asistir a La
 Tertulia a una actividad en concreto y, al final, a pesar de no encontrar información y
@@ -167,7 +166,8 @@ frustrarse en el proceso, termina yendo porque confía en el criterio del amigo 
 recomendó.<br><br>
 
 Daniel<br>
-https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/PERSONA_USER_JOURNEY_DANIEL.pdf <br>
+
+[USER JOURNEY MAP DANIEL](P1/PERSONA_USER_JOURNEY_DANIEL.pdf) <br>
 Con el Journey Map de Daniel hemos querido ejemplificar el caso de una persona que, a
 pesar de tener bastante interés por asistir a una de las actividades que ofrecen, decide no ir
 por la escasa información que encuentra en las redes sociales y en la página web. Así
@@ -180,9 +180,12 @@ demostramos la importancia de, entre otras cosas, mantener una página web actua
 ----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento: https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/Usability-review.pdf
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+- Enlace al documento: https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/Usability-review.pdf
+ - URL y Valoración numérica obtenida: 
+- Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+
+Al no tener página web funcional los resultados no son buenos. La página está desactualizada y sin apenas funcionalidades.
+
 
 <br>
 
