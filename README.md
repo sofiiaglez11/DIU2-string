@@ -180,7 +180,7 @@ demostramos la importancia de, entre otras cosas, mantener una página web actua
 ----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
-- Enlace al documento: https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/Usability-review.pdf
+- [Enlace al documento](https://github.com/sofiiaglez11/DIU2-string/blob/master/P1/Usability-review.pdf)
  - URL y Valoración numérica obtenida: 
 - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
@@ -217,6 +217,31 @@ Al no tener página web funcional los resultados no son buenos. La página está
 
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+>>>
+
+Nuestra propuesta consiste en el rediseño total de la página web. Para ello queremos hacer un diseño más atractivo y mejor estructurado, de forma que la información esté disponible a partir de un menú y sea más accesible para el usuario. Queremos diferenciar las siguientes secciones:
+
+Principal: Es la página principal del sitio web, la primera que se muestra al acceder a la página. En ella se mostrarán de forma visual (fotografías, videos, etc.) las actividades de la semana actual. Además, incluirá información sobre las personas que vayan a actuar o participar en alguna actividad y quieran promocionarse, y un calendario interactivo.
+
+Actividades: Se muestran las actividades próximas por orden de fecha. En esta página el usuario podrá informarse sobre los eventos, indicar a cuáles quiere asistir o participar, y marcarlos como favoritos.
+
+Conócenos: Se ofrece información sobre la historia del local y artistas importantes que han asistido.
+
+Opiniones: En este apartado los usuarios podrán expresar sugerencias, valoraciones, experiencias, etc.  que tengan sobre el local o la página web.
+
+Contacto: Se muestra el número de teléfono, correo electrónico y dirección. Además, aparece un formulario para contactar de forma directa. 
+
+Iniciar sesión/Registrarse: Formulario para que el usuario, en caso de no tener cuenta, se registre; y si ya dispone de una cuenta en esta página, inicie sesión.
+
+ También queremos añadir algunas funcionalidades como: 
+
+
+Un filtrado para las actividades según las siguientes categorías: ‘musicales’, ‘literarias’, ‘favoritas’ y ‘otras’.
+Un calendario interactivo en el que están apuntadas las actividades de cada semana.
+Un sistema de búsqueda que permita al usuario encontrar de forma más fácil algún contenido en concreto utilizando palabras clave.
+Un botón para confirmar la asistencia y otro para participar en las actividades.
+Un botón para marcar actividades como favoritas. El usuario recibirá notificaciones sobre sus actividades favoritas.
+
 
 
 
