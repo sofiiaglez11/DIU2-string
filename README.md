@@ -281,10 +281,11 @@ Conócenos: Se ofrece información sobre la historia del local y artistas import
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
-
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
+Hemos utilizado Figma para realizar el diseño del layout para Web. <br>
 
 ![Wireframe](P2/Wireframe2.png)
+<br>
+Aquí se ve más detallado el contenido <br>
 ![Wireframe detallado](P2/Wireframe.jpeg)
 <br>
 
@@ -295,8 +296,10 @@ Conócenos: Se ofrece información sobre la historia del local y artistas import
 -----
 
 >>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+>>>
+
+Para realizar el Moodboard hemos usado la herramienta [Excalidraw](excalidraw.com)
 
 Moodboard: 
 ![MOODBOARD](P3/MOODBOARD.png)
