@@ -276,6 +276,8 @@ Término | Significado
 ![Método UX](img/mockup.png) 
 ----
 ![Mockup](https://www.figma.com/design/fWuTnBIUxemjLweb523xS5/Practica3?node-id=0-1&t=UojXUwZWzqQ3LNQB-1)
+
+![Mockup](https://www.figma.com/proto/fWuTnBIUxemjLweb523xS5/Practica3?node-id=58432-2274&p=f&t=yIoXDyVhFkoT08bm-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
 
