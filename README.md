@@ -221,26 +221,26 @@ Al no tener página web funcional los resultados no son buenos. La página está
 
 Nuestra propuesta consiste en el rediseño total de la página web. Para ello queremos hacer un diseño más atractivo y mejor estructurado, de forma que la información esté disponible a partir de un menú y sea más accesible para el usuario. Queremos diferenciar las siguientes secciones:
 
-Principal: Es la página principal del sitio web, la primera que se muestra al acceder a la página. En ella se mostrarán de forma visual (fotografías, videos, etc.) las actividades de la semana actual. Además, incluirá información sobre las personas que vayan a actuar o participar en alguna actividad y quieran promocionarse, y un calendario interactivo.
+- Principal: Es la página principal del sitio web, la primera que se muestra al acceder a la página. En ella se mostrarán de forma visual (fotografías, videos, etc.) las actividades de la semana actual. Además, incluirá información sobre las personas que vayan a actuar o participar en alguna actividad y quieran promocionarse, y un calendario interactivo.
 
-Actividades: Se muestran las actividades próximas por orden de fecha. En esta página el usuario podrá informarse sobre los eventos, indicar a cuáles quiere asistir o participar, y marcarlos como favoritos.
+- Actividades: Se muestran las actividades próximas por orden de fecha. En esta página el usuario podrá informarse sobre los eventos, indicar a cuáles quiere asistir o participar, y marcarlos como favoritos.
 
 Conócenos: Se ofrece información sobre la historia del local y artistas importantes que han asistido.
 
-Opiniones: En este apartado los usuarios podrán expresar sugerencias, valoraciones, experiencias, etc.  que tengan sobre el local o la página web.
+- Opiniones: En este apartado los usuarios podrán expresar sugerencias, valoraciones, experiencias, etc.  que tengan sobre el local o la página web.
 
-Contacto: Se muestra el número de teléfono, correo electrónico y dirección. Además, aparece un formulario para contactar de forma directa. 
+- Contacto: Se muestra el número de teléfono, correo electrónico y dirección. Además, aparece un formulario para contactar de forma directa. 
 
-Iniciar sesión/Registrarse: Formulario para que el usuario, en caso de no tener cuenta, se registre; y si ya dispone de una cuenta en esta página, inicie sesión.
+- Iniciar sesión/Registrarse: Formulario para que el usuario, en caso de no tener cuenta, se registre; y si ya dispone de una cuenta en esta página, inicie sesión.
 
  También queremos añadir algunas funcionalidades como: 
 
 
-Un filtrado para las actividades según las siguientes categorías: ‘musicales’, ‘literarias’, ‘favoritas’ y ‘otras’.
-Un calendario interactivo en el que están apuntadas las actividades de cada semana.
-Un sistema de búsqueda que permita al usuario encontrar de forma más fácil algún contenido en concreto utilizando palabras clave.
-Un botón para confirmar la asistencia y otro para participar en las actividades.
-Un botón para marcar actividades como favoritas. El usuario recibirá notificaciones sobre sus actividades favoritas.
+- Un filtrado para las actividades según las siguientes categorías: ‘musicales’, ‘literarias’, ‘favoritas’ y ‘otras’.
+- Un calendario interactivo en el que están apuntadas las actividades de cada semana.
+- Un sistema de búsqueda que permita al usuario encontrar de forma más fácil algún contenido en concreto utilizando palabras clave.
+- Un botón para confirmar la asistencia y otro para participar en las actividades.
+- Un botón para marcar actividades como favoritas. El usuario recibirá notificaciones sobre sus actividades favoritas.
 
 
 
@@ -249,14 +249,19 @@ Un botón para marcar actividades como favoritas. El usuario recibirá notificac
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-![Task Flow] (P2/P2-TaskFlow.png)
+![Task Flow](P2/P2-TaskFlow.png)
+
+
+>>> describir brevenmente
+
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+>>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
+>>>
+>>
 
 Término | Significado     
 | ------------- | -------
