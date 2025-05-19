@@ -239,7 +239,7 @@ Conócenos: Se ofrece información sobre la historia del local y artistas import
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-[Scope canvas](P2/scope-canvas.png)
+![Scope canvas](P2/scope-canvas.png)
 
 
 
