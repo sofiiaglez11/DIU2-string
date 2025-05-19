@@ -249,17 +249,24 @@ Conócenos: Se ofrece información sobre la historia del local y artistas import
 
 ![Task Flow](P2/P2-TaskFlow.png)
 
+| **Tarea** | **Pasos** |
+|-----------|-----------|
+| Informarse sobre una actividad | - Buscar en el menú la sección ‘Actividades’.<br>- Deslizar hasta encontrar la información de la actividad que quiera. |
+| Consultar la planificación | - Consultar la información y el calendario que aparecen en la página principal. |
+| Apuntarse a una actividad | - Buscar en el menú la sección ‘Actividades’.<br>- Deslizar hasta encontrar la actividad que quiera.<br>- Seleccionar el botón “Asistiré”.<br>- Si no se ha identificado debe iniciar sesión o registrarse. |
+| Consultar información de contacto | - Seleccionar en el menú la sección ‘Contacto’. |
+| Iniciar sesión/Registrarse en la página web | - Seleccionar la opción de iniciar sesión/registrarse.<br>- Rellenar los campos del formulario. |
+| Informarse sobre artistas que han actuado en La Tertulia | - Buscar en el menú la sección ‘Conócenos’.<br>- Deslizar hasta el apartado de artistas. |
+| Marcar una actividad como favorita | - Buscar en el menú la sección ‘Actividades’.<br>- Deslizar hasta encontrar la actividad que quiera.<br>- Seleccionar el icono ⭐.<br>- Si no se ha identificado debe iniciar sesión o registrarse. |
+| Dar su opinión sobre una actividad, sobre el local… | - Buscar en el menú la sección ‘Opiniones’.<br>- Si no se ha identificado debe iniciar sesión o registrarse.<br>- Rellena los campos del formulario. |
+| Cambiar el idioma | - Selecciona el icono de idioma (bandera).<br>- Cambia el idioma del contenido (inglés - español). |
 
->>> describir brevenmente
 
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
->>>
->>
 
 | Icono | Término | Significado |
 |-------|---------|-------------|
