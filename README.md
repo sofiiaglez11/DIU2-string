@@ -9,15 +9,18 @@ Actualizado: 20/03/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+La Tertulia
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Describa la idea de su producto en la práctica 2
+
+Nuestra propuesta consiste en el rediseño total de la página web. Para ello queremos hacer un diseño más atractivo y mejor estructurado, de forma que la información esté disponible a partir de un menú y sea más accesible para el usuario. 
 
 Logotipo: 
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![logo](P3/logo.png)
 
 Miembros:
  * :bust_in_silhouette:  Sofía González Uceda    https://github.com/sofiiaglez11  :octocat:     
@@ -182,7 +185,6 @@ demostramos la importancia de, entre otras cosas, mantener una página web actua
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
@@ -278,7 +280,6 @@ Término | Significado
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
 Mockup: https://www.figma.com/proto/fWuTnBIUxemjLweb523xS5/Practica3?node-id=58432-2274&p=f&t=yIoXDyVhFkoT08bm-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
-![Mockup](https://www.figma.com/proto/fWuTnBIUxemjLweb523xS5/Practica3?node-id=58432-2274&p=f&t=yIoXDyVhFkoT08bm-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 
 
