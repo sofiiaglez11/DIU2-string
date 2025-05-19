@@ -333,35 +333,35 @@ Como refuerzos emocionales proponemos:
 ----
 
 Para el diseño móvil de nuestra página web vamos a utilizar los siguientes elementos:
-Una barra de navegación en la que tenemos como vistas de interfaz de usuario los distintos menús de la aplicación.
+- Una **barra de navegación** en la que tenemos como vistas de interfaz de usuario los distintos menús de la aplicación.
 https://m3.material.io/components/navigation-bar/overview
  
-Una barra de búsqueda y debajo un segmented button (botón segmentado) para filtrar las actividades.
+- Una **barra de búsqueda** y debajo un **segmented button** (botón segmentado) para filtrar las actividades.
 https://m3.material.io/components/search/overview
 https://m3.material.io/components/segmented-buttons/overview
 
-Un calendario
+- Un **calendario**
 https://m3.material.io/components/date-pickers/overview
 
-Campos de texto para las opiniones y el contacto
+- **Campos de texto** para las opiniones y el contacto
 https://m3.material.io/components/text-fields/overview
 
-Carrusel de fotos 
+- **Carrusel** de fotos 
 https://m3.material.io/components/carousel/overview 
 
 El carrusel lo utilizamos en las “galerías” de imágenes. En concreto se usan para:
-Mostrar las actividades de la semana en la página principal, indicando en el pie de foto el día de la actividad.
-Mostrar los artistas famosos que han asistido a la Tertulia en el apartado de “Conócenos”, poniendo la foto del artista, su nombre y una breve explicación sobre el artista.
+-- Mostrar las actividades de la semana en la página principal, indicando en el pie de foto el día de la actividad.
+-- Mostrar los artistas famosos que han asistido a la Tertulia en el apartado de “Conócenos”, poniendo la foto del artista, su nombre y una breve explicación sobre el artista.
 
-Icon buttons (botones con iconos)
+-** Icon buttons** (botones con iconos)
 https://m3.material.io/components/icon-buttons/guidelines
 
 Usamos este tipo de botones en la página que lista la información de una actividad en concreto. Los tipos de botones que utilizamos son: 
-Una flecha, para volver al listado de las actividades.
-Un icono de corazón, para marcar la actividad como favorita.
-El icono que se usa comúnmente para compartir para compartir la actividad.
+-- Una flecha, para volver al listado de las actividades.
+-- Un icono de corazón, para marcar la actividad como favorita.
+-- El icono que se usa comúnmente para compartir para compartir la actividad.
 
-Situamos estos botones en la parte superior de la página, contenidos en una appbar https://m3.material.io/components/app-bars/overview.
+Situamos estos botones en la parte superior de la página, contenidos en una **appbar** https://m3.material.io/components/app-bars/overview.
 
 
 
