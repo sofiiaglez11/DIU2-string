@@ -420,6 +420,28 @@ Mockup: https://www.figma.com/proto/fWuTnBIUxemjLweb523xS5/Practica3?node-id=584
 -----
 
 >>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Para diseñar las preguntas hemos utilizado la herramienta https://maze.co/. 
+
+Las preguntas que hemos elegido para conocer a los usuarios son las siguientes:
+
+¿Te gusta asistir a espectáculos de música en directo? Sí/No
+
+¿Cuáles son tus aficiones?
+Disfruto pasar tiempo en casa, tranquilo y con un buen libro.
+Aprovecho cualquier rayo de sol para subir a la montaña, playa, etc. y buscar nuevas aventuras.
+Me encanta pasar el tiempo con amigos en una terraza con una copa de vino.
+Me gusta expresarme a través de mi arte (cantar, bailar, pintar). Soy muy creativo.
+Otro.
+
+Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías?
+Asistir a conciertos
+Disfrutar de la comida
+Bailar tango
+Charlas filosóficas
+Probar nuevos vinos
+
+
+Hemos diseñado las preguntas con el fin de que nos sirvan para los dos sistemas que tenemos que analizar (A: La Tertulia y B: La taberna de Kafka). Por ello, hacemos cuestiones dirigidas a los intereses de los usuarios en las actividades que ofrecen estos establecimientos.
 
 
 
@@ -438,6 +460,52 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 -----
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+>>>
+
+## Método A/B testing
+
+### Proyecto A
+
+#### Usuario A1
+
+| Preguntas                                                                 | Respuestas                                                        |
+|--------------------------------------------------------------------------|-------------------------------------------------------------------|
+| ¿Te gusta asistir a espectáculos de música en directo?                   | No                                                                |
+| ¿Cuáles son tus aficiones?                                               | Disfruto pasar tiempo en casa, tranquilo y con un buen libro.     |
+| Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Disfrutar de la comida                                            |
+
+#### Usuario A2
+
+| Preguntas                                                                 | Respuestas                                                                 |
+|--------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ¿Te gusta asistir a espectáculos de música en directo?                   | Sí                                                                         |
+| ¿Cuáles son tus aficiones?                                               | Me encanta pasar el tiempo con amigos en una terraza con una copa de vino.|
+| Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Disfrutar de la comida                                                    |
+
+### Proyecto B
+
+#### Usuario B1
+
+| Preguntas                                                                 | Respuestas                                                        |
+|--------------------------------------------------------------------------|-------------------------------------------------------------------|
+| ¿Te gusta asistir a espectáculos de música en directo?                   | Sí                                                                |
+| ¿Cuáles son tus aficiones?                                               | Disfruto pasar tiempo en casa, tranquilo y con un buen libro.     |
+| Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Asistir a conciertos                                              |
+
+#### Usuario B2
+
+| Preguntas                                                                 | Respuestas                                                                            |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| ¿Te gusta asistir a espectáculos de música en directo?                   | Sí                                                                                    |
+| ¿Cuáles son tus aficiones?                                               | Me gusta expresarme a través de mi arte (cantar, bailar, pintar). Soy muy creativo.   |
+| Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Asistir a conciertos                                                                  |
+
+
+
+
+
+Por los resultados obtenidos, creemos que el caso más usable es el A.
+
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
@@ -449,7 +517,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![experimento](img/experimentoET.png)  
 >>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+Hemos utilizado la herramienta GazeRecorder para realizar el eye tracking de los usuarios. 
 
 
 ### 4.f Usability Report de B
