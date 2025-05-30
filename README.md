@@ -407,12 +407,12 @@ Mockup: https://www.figma.com/proto/fWuTnBIUxemjLweb523xS5/Practica3?node-id=584
 
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
+| Usuarios | Sexo/Edad     | Ocupación   |  Perfil cubierto   | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| A1  | M / 21   | Estudiante  | Avanzada       | Estudiante de Ingeniería Informática. No le gustan las actuaciones de música en directo. | móvil       | A 
+| A2  | F / 22   | Estudiante  | Avanzada       | Estudiante de economía. Le gusta la música, toca el tambor y la guitarra.       | móvil        | A 
+| B1  | F / 20   | Abogado     | Avanzada        | Estudiante de informática. Pasa mucho tiempo con el móvil y está muy conectada al mundo digital.     | móvil      | B 
+| B2  | F / 20   | Estudiante  | Avanzada       | Estudiante de telecomunicaciones. Está familiarizada con estas tecnologías. En su tiempo libre le gusta tocar la guitarra.      | móvil        | B 
 
 
 ### 4.b Diseño de las pruebas 
