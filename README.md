@@ -13,13 +13,9 @@ La Tertulia
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2
-
 Nuestra propuesta consiste en el rediseño total de la página web. Para ello queremos hacer un diseño más atractivo y mejor estructurado, de forma que la información esté disponible a partir de un menú y sea más accesible para el usuario. 
 
 Logotipo: 
-
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 ![logo](P3/logo.png)
 
@@ -30,11 +26,6 @@ Miembros:
 
 
 ----- 
-
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
 # Proceso de Diseño 
 
 <br>
@@ -195,8 +186,6 @@ Al no tener página web funcional los resultados no son buenos. La página está
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
 |                        | **La Tertulia** | **Granada Cooking** | **La taberna de Kafka** |
 |------------------------|-----------------|----------------------|--------------------------|
 | **Página web**         | Desactualizada y sin funcionalidades | Actualizada y bien estructurada | No tiene |
@@ -214,11 +203,7 @@ Al no tener página web funcional los resultados no son buenos. La página está
 
   ![Reframing](P2/P2-2Reframing.png)
 
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
+ 
 
 Nuestra propuesta consiste en el rediseño total de la página web. Para ello queremos hacer un diseño más atractivo y mejor estructurado, de forma que la información esté disponible a partir de un menú y sea más accesible para el usuario. Queremos diferenciar las siguientes secciones:
 
@@ -304,10 +289,6 @@ Aquí se ve más detallado el contenido: <br> <br>
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
->>>
-
 Para realizar el Moodboard hemos usado la herramienta [Excalidraw](excalidraw.com)
 
 Moodboard: <r>
@@ -390,10 +371,6 @@ Mockup: https://www.figma.com/proto/fWuTnBIUxemjLweb523xS5/Practica3?node-id=584
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 -----
-
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
 <br>
 
 ## Paso 4. Pruebas de Evaluación 
@@ -403,6 +380,11 @@ Mockup: https://www.figma.com/proto/fWuTnBIUxemjLweb523xS5/Practica3?node-id=584
 -----
 
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
+>>> 
+La página web que estamos analizando corresponde al negocio de La Taberna de Kafka. Se trata de una aplicación web que muestra información sobre las actividades (catas de vinos) que ofrecen en el local.
+Enlace: [https://github.com/IsaacTorres97/UX_CaseStudy]
+
+>>> 
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
 
