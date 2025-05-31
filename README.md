@@ -432,7 +432,7 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados
 >>>
-Excel con los resultados: []()
+Excel con los resultados: https://github.com/sofiiaglez11/DIU2-string/blob/master/P4/respuestas_sus%20-%20Hoja%201.pdf
 
 #### Proyecto A
 Con el usuario A1 obtiene un resultado SUS = 87.5. Entra en el rango A, por lo que es aceptable. Este usuario se encuentra cómodo con el uso de la página web. Aunque, como se puede comprobar en sus respuestas a las preguntas que vemos más adelante, el usuario no está interesado en asistir a este local porque no se siente atraído por las actividades que ofrecen, sí recomendaría la página web.
@@ -447,8 +447,6 @@ Con el usuario B1 obtiene un resultado SUS = 65. Entra en el rango C (marginal).
 Con el usuario B2 obtiene un resultado SUS = 85. Entra en el rango A, aceptable. Este usuario considera que la página es fácil de usar y consistente.
 
 Como se especifica en su Usability Report, consideramos que las opiniones de ambos usuarios son válidas, pero nos fiamos más de la primera porque ha detectado errores que nosotras también hemos visto y, además, creemos que el segundo usuario no estaba tan centrado en el cuestionario porque contestó las preguntas con prisa, por lo que sus respuestas pueden ser menos representativas.
-
-
 
 
 
@@ -498,12 +496,11 @@ Como se especifica en su Usability Report, consideramos que las opiniones de amb
 | Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Asistir a conciertos                                                                  |
 
 
-
 Por los resultados obtenidos, creemos que el caso más usable es el A.
 
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
+![Método UX]([img/eye-tracking.png](https://github.com/sofiiaglez11/DIU2-string/blob/master/P4/eyetracking_b.png))
 ----
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
