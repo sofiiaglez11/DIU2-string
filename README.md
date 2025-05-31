@@ -381,12 +381,11 @@ Mockup: https://www.figma.com/proto/fWuTnBIUxemjLweb523xS5/Practica3?node-id=584
 
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 >>> 
-La página web que estamos analizando corresponde al negocio de La Taberna de Kafka. Se trata de una aplicación web que muestra información sobre las actividades (catas de vinos) que ofrecen en el local.
-Enlace: [https://github.com/IsaacTorres97/UX_CaseStudy]
+La página web que estamos analizando corresponde al negocio de La Taberna de Kafka. Se trata de una aplicación web que muestra información sobre las actividades (catas de vinos) que ofrecen en el local.<br>
+Enlace al repositorio: https://github.com/IsaacTorres97/UX_CaseStudy
 
 >>> 
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
-
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Perfil cubierto   | Personalidad | Plataforma | Caso
@@ -396,6 +395,7 @@ Enlace: [https://github.com/IsaacTorres97/UX_CaseStudy]
 | B1  | F / 20   | Estudiante     | Avanzada        | Estudiante de informática. Pasa mucho tiempo con el móvil y está muy conectada al mundo digital.     | móvil      | B 
 | B2  | F / 20   | Estudiante  | Avanzada       | Estudiante de telecomunicaciones. Está familiarizada con estas tecnologías. En su tiempo libre le gusta tocar la guitarra.      | móvil        | B 
 
+Hay que tener en cuenta que al usuario A1 no está interesado en asistir al local del que se le está encuestando (La Tertulia) porque no se siente atraído por las actividades que ofrecen.
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
