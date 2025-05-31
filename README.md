@@ -500,7 +500,7 @@ Por los resultados obtenidos, creemos que el caso más usable es el A.
 
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX]
+[Método UX]
 ----
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
@@ -509,14 +509,128 @@ Por los resultados obtenidos, creemos que el caso más usable es el A.
 ![Resultado eye tracking](P4/eyetracking_b.png)
 >>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
 
-Hemos utilizado la herramienta GazeRecorder para realizar el eye tracking de los usuarios. 
+Para realizar el eye tracking hemos utilizado la herramienta GazeRecorder. Hemos subido a la aplicación las imagenes que queríamos evaluar, eligiendo las páginas que hemos considerado más importantes de cada proyecto.
 
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
+>>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad.
+
+
+# Usability Report
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
+
+#### Evaluación de usabilidad del proyecto 
+
+### LA TABERNA DE KAFKA
+
+### 30/05/2025
+
+![img Proyecto]
+
+[https://github.com/IsaacTorres97/UX_CaseStudy](https://github.com/IsaacTorres97/UX_CaseStudy)
+
+### Realizado por:
+
+Equipo DIU2.string, compuesto por Sofía González Uceda y María Ramos Martínez.
+
+Nuestra experiencia evaluando la práctica ha sido buena. Hemos tenido acceso a la aplicación para poder evaluarla y nos ha resultado fácil encontrar usuarios que la prueben. La metodología seguida permite primero conocer al usuario para saber si le interesa el sitio y luego enseñarle la aplicación para que interactúe con ella y obtengamos información de ello.
+
+Nos ha parecido muy interesante interpretar los resultados del eye-tracking porque demuestra cuáles son los elementos más llamativos para el usuario y así comprobar si se cumple el propósito del diseño.
+
+---
+
+## 1 DESCRIPCIÓN DEL WEBSITE
+
+La página web que estamos analizando corresponde al negocio de La Taberna de Kafka. Se trata de una aplicación web que muestra información sobre las actividades (catas de vinos) que ofrecen en el local.  
+
+La página principal está compuesta por una foto en grande de una cata, intuimos que corresponde a la próxima cata, y una “galería” de catas. Además tiene una sección de comentarios de los usuarios. 
+
+Al pulsar sobre el evento de la semana, lleva a otra página donde se muestra información más detallada sobre el mismo, incluyendo la fecha, hora, aforo y vinos disponibles. También hay un botón que redirige a una página de reserva, en la que se indica el número de asistentes y la opción de ir con mascota.
+
+En el header aparece el logo y el título de la página junto a un icono de persona y otro de menú. 
+
+Con el menú lateral podemos acceder a otras dos páginas:  
+- **Nuestros vinos**: Lista de los vinos que tienen disponibles.  
+- **Sobre nosotros**: Información sobre la empresa y dos imágenes representativas.
+
+El icono de persona se utiliza para acceder a los cuestionarios de inicio de sesión y registro.  
+En el footer de todas las páginas aparece información de contacto.
+
+---
+
+## 2 RESUMEN EJECUTIVO
+
+Apreciando lo descrito en el apartado anterior, consideramos que es una web intuitiva y sencilla. La página muestra los aspectos más representativos del local, ofreciendo funcionalidades útiles para los usuarios, como la reserva, comentarios y contacto.
+
+Sin embargo, al realizar las pruebas con los usuarios hemos detectado algunos problemas:
+- Algunos de los botones del prototipo no funcionan.
+- Los usuarios se distraen mucho con las fotos y no se centran tanto en los botones (como el de reserva).
+- La paleta de colores es muy oscura y puede entorpecer la navegación.
+- El tamaño de letra es demasiado pequeño para que sea fácilmente legible.
+
+---
+
+## 3 METODOLOGÍA
+
+### Metodología de usabilidad
+
+Para realizar este informe hemos utilizado cuestionarios para conocer a los usuarios y para testear la usabilidad. Los cuestionarios los hemos realizado con la herramienta [https://maze.co/](https://maze.co/)
+
+### Test de usuarios: Participantes
+
+| ID Usuario | Sexo/Edad | Ocupación     | Experiencia Internet | Plataforma | Perfil cubierto                                                                                 | TEST | SUS score |
+|------------|-----------|---------------|-----------------------|------------|--------------------------------------------------------------------------------------------------|------|------------|
+| B1         | F / 20    | Estudiante    | Avanzada              | Móvil      | Estudiante de informática. Pasa mucho tiempo con el móvil y está muy conectada al mundo digital. | B    | 65         |
+| B2         | F / 19    | Estudiante    | Avanzada              | Móvil      | Estudiante de telecomunicaciones. Está familiarizada con estas tecnologías.                     | B    | 85         |
+
+### Resultados obtenidos
+
+#### Resultado de SUS
+
+En los resultados del método SUS hemos obtenido valores dispersos. Con un usuario hemos obtenido una puntuación de **65 (rango C)** y con el otro, **85 (rango A)**.
+
+Consideramos que las opiniones de ambos usuarios son válidas, pero nos fiamos más de la primera porque ha detectado errores que nosotras también hemos visto y, además, creemos que el segundo usuario no estaba tan centrado en el cuestionario porque contestó con prisa.
+
+#### Resultado de Eye-Tracking
+
+En la página principal los usuarios miran las imágenes y la cabecera con el logo, lo que indica que son destacables y captan la atención.
+
+En la página de información de una actividad ambos usuarios leen el contenido. B2 se fija también en la imagen y B1 vuelve a mirar el logo. Esto puede ser porque hay mucho contraste entre el logo y el resto del contenido.
+
+Sin embargo, en ambos casos los botones de acción **no captan la atención de los usuarios**, probablemente por lo distractoras que resultan las imágenes.
+
+---
+
+## 4 CONCLUSIONES
+
+Con las pruebas de usabilidad podemos destacar que los usuarios acceden de forma sencilla a los contenidos (la navegabilidad es intuitiva). Sin embargo, hay algunos botones que no funcionan y entorpecen la experiencia de usuario.
+
+### Incidencias
+
+- Algunos botones del prototipo no funcionaban correctamente.
+
+### Valoración
+
+- La navegación es intuitiva.  
+- La información principal está bien presentada.  
+- El uso del eye-tracking fue especialmente valioso para detectar desviaciones de atención.
+
+### Recomendaciones y propuesta de mejoras:
+
+- Mejorar la visibilidad de los botones y su diseño para destacarlos.  
+- Reducir el impacto visual de las imágenes si no están ligadas a la acción.  
+- Usar una paleta de colores más clara.  
+- Aumentar el tamaño de letra para mejorar la legibilidad.  
+- Corregir el funcionamiento de todos los botones y asegurar consistencia en la navegación.
+
+### Valoración de la prueba de usabilidad (self-assessment)
+
+Consideramos que estas técnicas (SUS, eye-tracking y tareas) han sido útiles para detectar errores ocultos o fallos de usabilidad en el proyecto. Han ofrecido información valiosa sobre cómo navegan los usuarios por la web y qué elementos destacan o ignoran.
+
+
 >>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
 
 >>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
