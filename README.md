@@ -405,6 +405,8 @@ Hemos hecho otras preguntas para conocer más a los usuarios.
 | ¿Cuáles son tus aficiones?                                               | Me encanta pasar el tiempo con amigos en una terraza con una copa de vino.|
 | Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Disfrutar de la comida                                                    |
 
+Hay que tener en cuenta que al usuario A1 no está interesado en asistir al local del que se le está encuestando (La Tertulia) porque no se siente atraído por las actividades que ofrecen.
+
 ### Proyecto B
 
 #### Usuario B1
@@ -423,7 +425,6 @@ Hemos hecho otras preguntas para conocer más a los usuarios.
 | ¿Cuáles son tus aficiones?                                               | Me gusta expresarme a través de mi arte (cantar, bailar, pintar). Soy muy creativo.   |
 | Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Asistir a conciertos                                                                  |
 
-Hay que tener en cuenta que al usuario A1 no está interesado en asistir al local del que se le está encuestando (La Tertulia) porque no se siente atraído por las actividades que ofrecen.
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
