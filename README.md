@@ -500,13 +500,13 @@ Por los resultados obtenidos, creemos que el caso más usable es el A.
 
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX]([img/eye-tracking.png](https://github.com/sofiiaglez11/DIU2-string/blob/master/P4/eyetracking_b.png))
+![Método UX]
 ----
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
 
-![experimento](img/experimentoET.png)  
+![experimento]([img/experimentoET.png](https://github.com/sofiiaglez11/DIU2-string/blob/master/P4/eyetracking_b.png))  
 >>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
 
 Hemos utilizado la herramienta GazeRecorder para realizar el eye tracking de los usuarios. 
