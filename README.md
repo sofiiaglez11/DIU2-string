@@ -452,7 +452,26 @@ Hemos diseñado las preguntas con el fin de que nos sirvan para los dos sistemas
 >>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+>>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados
+>>>
+Excel con los resultados: []()
+
+#### Proyecto A
+Con el usuario A1 obtiene un resultado SUS = 87.5. Entra en el rango A, por lo que es aceptable. Este usuario se encuentra cómodo con el uso de la página web. Aunque, como se puede comprobar en sus respuestas a las preguntas que vemos más adelante, el usuario no está interesado en asistir a este local porque no se siente atraído por las actividades que ofrecen, sí recomendaría la página web.
+
+Con el usuario A2 obtiene un resultado SUS = 90. Entra en el rango de A por lo que es aceptable. Este usuario está interesado en asistir al local y en general cree que la página web está bien organizada.
+
+La media entre estos dos resultados es de 88.75, lo cual deja al proyecto con una valoración final aceptable.
+
+#### Proyecto B
+Con el usuario B1 obtiene un resultado SUS = 65. Entra en el rango C (marginal). Esto indica que su experiencia no es del todo satisfactoria y que no recomendaría la página a otros usuarios.
+
+Con el usuario B2 obtiene un resultado SUS = 85. Entra en el rango A, aceptable. Este usuario considera que la página es fácil de usar y consistente.
+
+Como se especifica en su Usability Report, consideramos que las opiniones de ambos usuarios son válidas, pero nos fiamos más de la primera porque ha detectado errores que nosotras también hemos visto y, además, creemos que el segundo usuario no estaba tan centrado en el cuestionario porque contestó las preguntas con prisa, por lo que sus respuestas pueden ser menos representativas.
+
+
+
 
 
 ### 4.d A/B Testing
