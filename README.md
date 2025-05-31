@@ -411,7 +411,7 @@ Mockup: https://www.figma.com/proto/fWuTnBIUxemjLweb523xS5/Practica3?node-id=584
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | A1  | M / 21   | Estudiante  | Avanzada       | Estudiante de Ingeniería Informática. No le gustan las actuaciones de música en directo. | móvil       | A 
 | A2  | F / 22   | Estudiante  | Avanzada       | Estudiante de economía. Le gusta la música, toca el tambor y la guitarra.       | móvil        | A 
-| B1  | F / 20   | Abogado     | Avanzada        | Estudiante de informática. Pasa mucho tiempo con el móvil y está muy conectada al mundo digital.     | móvil      | B 
+| B1  | F / 20   | Estudiante     | Avanzada        | Estudiante de informática. Pasa mucho tiempo con el móvil y está muy conectada al mundo digital.     | móvil      | B 
 | B2  | F / 20   | Estudiante  | Avanzada       | Estudiante de telecomunicaciones. Está familiarizada con estas tecnologías. En su tiempo libre le gusta tocar la guitarra.      | móvil        | B 
 
 
@@ -518,8 +518,6 @@ Como se especifica en su Usability Report, consideramos que las opiniones de amb
 | ¿Te gusta asistir a espectáculos de música en directo?                   | Sí                                                                                    |
 | ¿Cuáles son tus aficiones?                                               | Me gusta expresarme a través de mi arte (cantar, bailar, pintar). Soy muy creativo.   |
 | Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Asistir a conciertos                                                                  |
-
-
 
 
 
