@@ -648,29 +648,25 @@ Enlace archivo asignación: https://github.com/mgea/UX_CaseStudy/blob/master/Gui
 
 <br>
 
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
-
 ## Conclusiones finales & Valoración de las prácticas
-
-
 >>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+
+Empezamos la práctica analizando la página web de la Tertulia. Vimos que no tenía una página web funcional, por lo que decidimos enfocar nuestro proyecto en proporcionar una página a este local. 
+
+En la primera práctica nos informamos sobre el local  y analizamos sus competidores( aunque este análisis no resultó del todo bien porque no comparamos con locales que ofrecieran las mismas actividades). Además, creamos usuarios y sus respectivos journey maps para representar la experiencia de un posible cliente.
+
+En la segunda práctica analizamos los puntos fuertes y débiles de la página actual del local, y hacemos la primera propuesta de nuestra página web, indicando las secciones que tendrá y las tareas que permitirá hacer.
+
+En la tercera práctica, siguiendo las ideas que desarrollamnos en la práctica anterior, diseñamos unos primeros bocetos de la versión web para escritorio, a la que más adelante le asignamos una paleta de color que consideramos adecuada (por los colores predominantes del local). 
+
+Finalmente, diseñamos el prototipo final en su versión de aplicación móvil. 
+
+A lo largo de las prácticas hemos utilizado principalmente la herramienta Figma, que permite hacer desde diseños básicos hasta páginas interactivas que simulan cómo se vería el producto final.  
+
+Pensamos que hemos trabajado bien y de forma constante a lo largo de las prácticas, llegando a un resultado final con el que estamos contentas. Aunque sabemos que hay aspectos que podemos mejorar, en general creemos que el resultado es bueno.
+
+
+
 
 
 
