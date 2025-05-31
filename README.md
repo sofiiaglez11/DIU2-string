@@ -528,7 +528,7 @@ Para realizar el eye tracking hemos utilizado la herramienta GazeRecorder. Hemos
 
 ### 30/05/2025
 
-![img Proyecto]
+![img Proyecto](P4/kafka.png)
 
 [https://github.com/IsaacTorres97/UX_CaseStudy](https://github.com/IsaacTorres97/UX_CaseStudy)
 
