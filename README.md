@@ -391,6 +391,44 @@ Enlace al repositorio: https://github.com/IsaacTorres97/UX_CaseStudy
 | B1  | F / 20   | Estudiante     | Avanzada        | Estudiante de informática. Pasa mucho tiempo con el móvil y está muy conectada al mundo digital.     | móvil      | B 
 | B2  | F / 20   | Estudiante  | Avanzada       | Estudiante de telecomunicaciones. Está familiarizada con estas tecnologías. En su tiempo libre le gusta tocar la guitarra.      | móvil        | B 
 
+
+Hemos hecho otras preguntas para conocer más a los usuarios.
+### Proyecto A
+
+#### Usuario A1
+
+| Preguntas                                                                 | Respuestas                                                        |
+|--------------------------------------------------------------------------|-------------------------------------------------------------------|
+| ¿Te gusta asistir a espectáculos de música en directo?                   | No                                                                |
+| ¿Cuáles son tus aficiones?                                               | Disfruto pasar tiempo en casa, tranquilo y con un buen libro.     |
+| Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Disfrutar de la comida                                            |
+
+#### Usuario A2
+
+| Preguntas                                                                 | Respuestas                                                                 |
+|--------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ¿Te gusta asistir a espectáculos de música en directo?                   | Sí                                                                         |
+| ¿Cuáles son tus aficiones?                                               | Me encanta pasar el tiempo con amigos en una terraza con una copa de vino.|
+| Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Disfrutar de la comida                                                    |
+
+### Proyecto B
+
+#### Usuario B1
+
+| Preguntas                                                                 | Respuestas                                                        |
+|--------------------------------------------------------------------------|-------------------------------------------------------------------|
+| ¿Te gusta asistir a espectáculos de música en directo?                   | Sí                                                                |
+| ¿Cuáles son tus aficiones?                                               | Disfruto pasar tiempo en casa, tranquilo y con un buen libro.     |
+| Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Asistir a conciertos                                              |
+
+#### Usuario B2
+
+| Preguntas                                                                 | Respuestas                                                                            |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| ¿Te gusta asistir a espectáculos de música en directo?                   | Sí                                                                                    |
+| ¿Cuáles son tus aficiones?                                               | Me gusta expresarme a través de mi arte (cantar, bailar, pintar). Soy muy creativo.   |
+| Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Asistir a conciertos                                                                  |
+
 Hay que tener en cuenta que al usuario A1 no está interesado en asistir al local del que se le está encuestando (La Tertulia) porque no se siente atraído por las actividades que ofrecen.
 
 ### 4.b Diseño de las pruebas 
@@ -405,18 +443,18 @@ Las preguntas que hemos elegido para conocer a los usuarios son las siguientes:
 ¿Te gusta asistir a espectáculos de música en directo? Sí/No
 
 ¿Cuáles son tus aficiones?
-Disfruto pasar tiempo en casa, tranquilo y con un buen libro.
-Aprovecho cualquier rayo de sol para subir a la montaña, playa, etc. y buscar nuevas aventuras.
-Me encanta pasar el tiempo con amigos en una terraza con una copa de vino.
-Me gusta expresarme a través de mi arte (cantar, bailar, pintar). Soy muy creativo.
-Otro.
+- Disfruto pasar tiempo en casa, tranquilo y con un buen libro.
+- Aprovecho cualquier rayo de sol para subir a la montaña, playa, etc. y buscar nuevas aventuras.
+- Me encanta pasar el tiempo con amigos en una terraza con una copa de vino.
+- Me gusta expresarme a través de mi arte (cantar, bailar, pintar). Soy muy creativo.
+- Otro.
 
 Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías?
-Asistir a conciertos
-Disfrutar de la comida
-Bailar tango
-Charlas filosóficas
-Probar nuevos vinos
+- Asistir a conciertos
+- Disfrutar de la comida
+- Bailar tango
+- Charlas filosóficas
+- Probar nuevos vinos
 
 
 Hemos diseñado las preguntas con el fin de que nos sirvan para los dos sistemas que tenemos que analizar (A: La Tertulia y B: La taberna de Kafka). Por ello, hacemos cuestiones dirigidas a los intereses de los usuarios en las actividades que ofrecen estos establecimientos.
@@ -459,44 +497,53 @@ Como se especifica en su Usability Report, consideramos que las opiniones de amb
 
 ## Método A/B testing
 
+Además del resultado del cuestionario SUS, tendremos en cuenta la realización de algunas tareas con ambas aplicaciones.
+
 ### Proyecto A
 
 #### Usuario A1
 
-| Preguntas                                                                 | Respuestas                                                        |
-|--------------------------------------------------------------------------|-------------------------------------------------------------------|
-| ¿Te gusta asistir a espectáculos de música en directo?                   | No                                                                |
-| ¿Cuáles son tus aficiones?                                               | Disfruto pasar tiempo en casa, tranquilo y con un buen libro.     |
-| Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Disfrutar de la comida                                            |
+| Pregunta                                                                 | Respuesta                                                                 |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ¿Te puedes informar de las actividades que hay? ¿Cómo lo haces?         | Sí, puedes pinchar tanto en la información como en el propio evento.     |
+| ¿Cómo de cómodo te sientes haciendo reservas online? (Del 1 al 5)        | 3                                                                         |
+| ¿Puedes obtener información sobre el local? ¿Cómo lo haces?              | Sí, en la página de información o contacto a través de su respectiva pestaña. |
+
+---
 
 #### Usuario A2
 
-| Preguntas                                                                 | Respuestas                                                                 |
-|--------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| ¿Te gusta asistir a espectáculos de música en directo?                   | Sí                                                                         |
-| ¿Cuáles son tus aficiones?                                               | Me encanta pasar el tiempo con amigos en una terraza con una copa de vino.|
-| Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Disfrutar de la comida                                                    |
+| Pregunta                                                                 | Respuesta                                                                 |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ¿Te puedes informar de las actividades que hay? ¿Cómo lo haces?         | Sí, seleccionando el icono del micrófono en el menú.                     |
+| ¿Cómo de cómodo te sientes haciendo reservas online? (Del 1 al 5)        | 5                                                                         |
+| ¿Puedes obtener información sobre el local? ¿Cómo lo haces?              | Sí, se puede conseguir de forma intuitiva. Pulsando el botón de información del menú. |
+
+---
 
 ### Proyecto B
 
 #### Usuario B1
 
-| Preguntas                                                                 | Respuestas                                                        |
-|--------------------------------------------------------------------------|-------------------------------------------------------------------|
-| ¿Te gusta asistir a espectáculos de música en directo?                   | Sí                                                                |
-| ¿Cuáles son tus aficiones?                                               | Disfruto pasar tiempo en casa, tranquilo y con un buen libro.     |
-| Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Asistir a conciertos                                              |
+| Pregunta                                                                 | Respuesta                                                                 |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ¿Te puedes informar de las actividades que hay? ¿Cómo lo haces?         | Desde el Home Page, pinchas en una actividad y se amplía la información. |
+| ¿Cómo de cómodo te sientes haciendo reservas online? (Del 1 al 5)        | 4                                                                         |
+| ¿Puedes obtener información sobre el local? ¿Cómo lo haces?              | Le he dado al menú y a Sobre Nosotros. Lo que pasa que de ahí ya no puedo salir y el menú a veces tampoco va. |
+
+---
 
 #### Usuario B2
 
-| Preguntas                                                                 | Respuestas                                                                            |
-|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| ¿Te gusta asistir a espectáculos de música en directo?                   | Sí                                                                                    |
-| ¿Cuáles son tus aficiones?                                               | Me gusta expresarme a través de mi arte (cantar, bailar, pintar). Soy muy creativo.   |
-| Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Asistir a conciertos                                                                  |
+| Pregunta                                                                 | Respuesta                                                                 |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ¿Te puedes informar de las actividades que hay? ¿Cómo lo haces?         | Sí, muestra las actividades que hay en la página principal y al pulsar sobre ellas me informo. |
+| ¿Cómo de cómodo te sientes haciendo reservas online? (Del 1 al 5)        | 4                                                                         |
+| ¿Puedes obtener información sobre el local? ¿Cómo lo haces?              | Sí, en el apartado del menú “Sobre nosotros”. Fácil de encontrar. |
 
 
-Por los resultados obtenidos, creemos que el caso más usable es el A.
+
+Por los resultados obtenidos, creemos que el caso más usable es el A. Se obtienen mejores resultados en SUS y los usuarios pueden realizar las tareas adecuadamente.
 
 
 ### 4.e Aplicación del método Eye Tracking 
