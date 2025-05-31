@@ -640,6 +640,7 @@ Consideramos que estas técnicas (SUS, eye-tracking y tareas) han sido útiles p
 
 
 >>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+Enlace archivo asignación: https://github.com/mgea/UX_CaseStudy/blob/master/GuionesPracticas/P4_Grupos_ABTesting.md
 
 >>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
 
