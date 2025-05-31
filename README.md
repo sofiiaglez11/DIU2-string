@@ -588,11 +588,16 @@ Para realizar este informe hemos utilizado cuestionarios para conocer a los usua
 
 ### Resultados obtenidos
 
+#### Metodología de usabilidad
+Para evaluar la usabilidad hemos utilizado el método SUS y el método de eye-tracking. Además, hemos pedido a los usuarios que realicen tareas para saber si son capaces de realizarlas en la página y si les resulta intuitivo o no. 
+
+La realización de estas evaluaciones la hemos realizado en una sesión de clase y en tiempo fuera del horario lectivo con otros usuarios. 
+
 #### Resultado de SUS
 
 En los resultados del método SUS hemos obtenido valores dispersos. Con un usuario hemos obtenido una puntuación de **65 (rango C)** y con el otro, **85 (rango A)**.
 
-Consideramos que las opiniones de ambos usuarios son válidas, pero nos fiamos más de la primera porque ha detectado errores que nosotras también hemos visto y, además, creemos que el segundo usuario no estaba tan centrado en el cuestionario porque contestó con prisa.
+Consideramos que las opiniones de ambos usuarios son válidas, pero nos fiamos más de la primera porque ha detectado errores que nosotras también hemos visto y, además, creemos que el segundo usuario no estaba tan centrado en el cuestionario porque contestó las preguntas con prisa, por lo que sus respuestas pueden ser menos representativas.
 
 #### Resultado de Eye-Tracking
 
@@ -611,6 +616,9 @@ Con las pruebas de usabilidad podemos destacar que los usuarios acceden de forma
 ### Incidencias
 
 - Algunos botones del prototipo no funcionaban correctamente.
+- Paleta de colores muy oscura.
+- Letra muy pequeña.
+- Botones pasan desapercibidos.
 
 ### Valoración
 
