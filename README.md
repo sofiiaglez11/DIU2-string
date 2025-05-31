@@ -405,7 +405,7 @@ Hemos hecho otras preguntas para conocer más a los usuarios.
 | ¿Cuáles son tus aficiones?                                               | Me encanta pasar el tiempo con amigos en una terraza con una copa de vino.|
 | Si tuvieras que elegir una única actividad para hacer el resto de tu vida. ¿Cuál elegirías? | Disfrutar de la comida                                                    |
 
-Hay que tener en cuenta que al usuario A1 no está interesado en asistir al local del que se le está encuestando (La Tertulia) porque no se siente atraído por las actividades que ofrecen.
+Hay que tener en cuenta que el usuario A1 no está interesado en asistir al local del que se le está encuestando (La Tertulia) porque no se siente atraído por las actividades que ofrecen.
 
 ### Proyecto B
 
