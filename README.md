@@ -358,7 +358,6 @@ Situamos estos botones en la parte superior de la página, contenidos en una **a
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
 Mockup: https://www.figma.com/proto/fWuTnBIUxemjLweb523xS5/Practica3?node-id=58432-2274&p=f&t=yIoXDyVhFkoT08bm-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
@@ -375,13 +374,8 @@ Mockup: https://www.figma.com/proto/fWuTnBIUxemjLweb523xS5/Practica3?node-id=584
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> 
 La página web que estamos analizando corresponde al negocio de La Taberna de Kafka. Se trata de una aplicación web que muestra información sobre las actividades (catas de vinos) que ofrecen en el local.<br>
 Enlace al repositorio: https://github.com/IsaacTorres97/UX_CaseStudy
-
->>> 
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Perfil cubierto   | Personalidad | Plataforma | Caso
@@ -435,7 +429,6 @@ Hay que tener en cuenta que al usuario A1 no está interesado en asistir al loca
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 Para diseñar las preguntas hemos utilizado la herramienta https://maze.co/. 
 
 Las preguntas que hemos elegido para conocer a los usuarios son las siguientes:
@@ -465,11 +458,6 @@ Hemos diseñado las preguntas con el fin de que nos sirvan para los dos sistemas
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados
->>>
 Excel con los resultados: https://github.com/sofiiaglez11/DIU2-string/blob/master/P4/respuestas_sus%20-%20Hoja%201.pdf
 
 #### Proyecto A
@@ -492,8 +480,6 @@ Como se especifica en su Usability Report, consideramos que las opiniones de amb
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
->>>
 
 ## Método A/B testing
 
@@ -550,11 +536,8 @@ Por los resultados obtenidos, creemos que el caso más usable es el A. Se obtien
 [Método UX]
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
-
 
 ![Resultado eye tracking](P4/eyetracking_b.png)
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
 
 Para realizar el eye tracking hemos utilizado la herramienta GazeRecorder. Hemos subido a la aplicación las imagenes que queríamos evaluar, eligiendo las páginas que hemos considerado más importantes de cada proyecto.
 
@@ -562,8 +545,6 @@ Para realizar el eye tracking hemos utilizado la herramienta GazeRecorder. Hemos
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
-
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad.
 
 
 # Usability Report
@@ -686,17 +667,13 @@ Con las pruebas de usabilidad podemos destacar que los usuarios acceden de forma
 Consideramos que estas técnicas (SUS, eye-tracking y tareas) han sido útiles para detectar errores ocultos o fallos de usabilidad en el proyecto. Han ofrecido información valiosa sobre cómo navegan los usuarios por la web y qué elementos destacan o ignoran.
 
 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
 Enlace archivo asignación: https://github.com/mgea/UX_CaseStudy/blob/master/GuionesPracticas/P4_Grupos_ABTesting.md
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
 
 
 
 <br>
 
 ## Conclusiones finales & Valoración de las prácticas
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
 
 Empezamos la práctica analizando la página web de la Tertulia. Vimos que no tenía una página web funcional, por lo que decidimos enfocar nuestro proyecto en proporcionar una página a este local. 
 
