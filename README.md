@@ -197,10 +197,6 @@ Al no tener página web funcional los resultados no son buenos. La página está
 | **Precio**             | 0€ - 10€ | 35€ - 50€ | 30€ |
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-
   ![Reframing](P2/P2-2Reframing.png)
 
  
